@@ -1,0 +1,10 @@
+export const ADMIN_ROUTE = "/admin";
+export const ADMIN_1_ROUTE = "/admin-page";
+export const LOGIN_ROUTE = "/login";
+export const REGISTRATION_ROUTE = "/registration";
+export const MAIL_SENDER_ROUTE = "/mail-sender";
+export const SHOP_ROUTE = "/";
+export const WK_ROUTE = "/wiring-kits";
+export const AC_ROUTE = "/accessories";
+export const BASKET_ROUTE = "/basket";
+export const FARKOP_ROUTE = "/farkop";

@@ -1,0 +1,15 @@
+.document {
+  height: 75px;
+  width: 75px;
+}
+
+.forImg {
+  height: 300px;
+  width: 350px;
+  border-radius: 15px;
+}
+
+.instruction {
+  height: 80px;
+  width: 80px;
+}
